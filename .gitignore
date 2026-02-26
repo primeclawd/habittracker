@@ -1,0 +1,11 @@
+node_modules/
+.gradle
+.idea
+*.log
+*.jks
+*.keystore
+dist/
+build/
+.env
+.env.local
+.DS_Store
